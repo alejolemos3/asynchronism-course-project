@@ -1,0 +1,23 @@
+{
+  "name": "asynchronism-course-proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejolemos3/asynchronism-course-proyect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejolemos3/asynchronism-course-proyect/issues"
+  },
+  "homepage": "https://github.com/alejolemos3/asynchronism-course-proyect#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
